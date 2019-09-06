@@ -1,4 +1,6 @@
 # AngularPhotoGalery
+from the course of [FatzWeb](https://www.youtube.com/watch?v=4MEsROoq5Qw)
+![](./screenshoots/index.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.2.
 
